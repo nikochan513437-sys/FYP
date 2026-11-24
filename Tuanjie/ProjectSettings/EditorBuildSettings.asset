@@ -4,9 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Scene.scene
+    guid: ba4a15c46a9114f44b27376dc4cda638
   m_BuildProfiles: []
   m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1161b550ed2f5d642abe856b859f5151, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3852794a435b0cf44b9469232173b125, type: 2}
   m_SlimFeaturesWeixinMiniGame:
     ACLDecompression: 0
