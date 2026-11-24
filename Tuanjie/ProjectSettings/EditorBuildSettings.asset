@@ -12,6 +12,7 @@ EditorBuildSettings:
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1161b550ed2f5d642abe856b859f5151, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3852794a435b0cf44b9469232173b125, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 524b0d698784f2b4b911dd4379fee815, type: 2}
   m_SlimFeaturesWeixinMiniGame:
     ACLDecompression: 0
     AllocateOverhead: 1
