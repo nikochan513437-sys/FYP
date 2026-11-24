@@ -256,6 +256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Origin (XR Rig)
       objectReference: {fileID: 0}
+    - target: {fileID: 1717954561962503725, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -713,6 +717,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: Both
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1704150693}
+        m_TargetAssemblyTypeName: SwitchScene, Assembly-CSharp
+        m_MethodName: switchScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Game Scene
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &469140503
@@ -2101,6 +2117,18 @@ MonoBehaviour:
           m_StringArgument: Loading
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1704150693}
+        m_TargetAssemblyTypeName: SwitchScene, Assembly-CSharp
+        m_MethodName: switchScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Game Scene
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1469848700
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2233,6 +2261,7 @@ GameObject:
   - component: {fileID: 1704150690}
   - component: {fileID: 1704150691}
   - component: {fileID: 1704150692}
+  - component: {fileID: 1704150693}
   m_Layer: 0
   m_HasEditorInfo: 1
   m_Name: GameManager
@@ -2290,6 +2319,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 16cdf809af0e8ec4aa76f78910265124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1704150693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704150688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63036ed4f537f3743810c9d981755edf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1814043831
@@ -2615,6 +2656,18 @@ MonoBehaviour:
           m_StringArgument: Unloading
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1704150693}
+        m_TargetAssemblyTypeName: SwitchScene, Assembly-CSharp
+        m_MethodName: switchScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Game Scene
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1878964281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2705,6 +2758,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Device Simulator
       objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2767,8 +2824,8 @@ SceneRoots:
   m_Roots:
   - {fileID: 1216473362}
   - {fileID: 483361163}
-  - {fileID: 277016573}
   - {fileID: 1819929104}
   - {fileID: 1165025549}
   - {fileID: 1704150689}
+  - {fileID: 277016573}
   - {fileID: 2004786348}

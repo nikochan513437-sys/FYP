@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Start Scene.scene
     guid: ba4a15c46a9114f44b27376dc4cda638
+  - enabled: 1
+    path: Assets/Scenes/Game Scene.scene
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_BuildProfiles: []
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1161b550ed2f5d642abe856b859f5151, type: 2}
