@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    //GameMode should be None,Normal or Tutorial
+    //GameMode should be (Defalt)None,Normal or Tutorial
     public static string GameMode = "None";
-    //GameProcess should be None,Loading,Unloading or Both
+    //GameProcess should be (Defalt)None,Loading,Unloading or Both
     public static string GameLevel = "None";
     public void chooseGameMode(string mode)
     {
