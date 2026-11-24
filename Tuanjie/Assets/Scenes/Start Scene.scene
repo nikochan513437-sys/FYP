@@ -502,6 +502,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   self: {fileID: 425124541}
+--- !u!114 &441630939 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2717219130732587163, guid: 3fa637338273a1144be08dda9309f98f, type: 3}
+  m_PrefabInstance: {fileID: 1843217498}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e4e6cca11330d4088d729ab4fc9d9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &469140500
 GameObject:
   m_ObjectHideFlags: 0
@@ -1025,6 +1036,14 @@ PrefabInstance:
     - target: {fileID: 7882548335559293519, guid: f833f62610eaa1241bd923690e70be2f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9035951450925133327, guid: f833f62610eaa1241bd923690e70be2f, type: 3}
+      propertyPath: m_InteractionManager
+      value: 
+      objectReference: {fileID: 441630939}
+    - target: {fileID: 9035951450925133327, guid: f833f62610eaa1241bd923690e70be2f, type: 3}
+      propertyPath: m_BlockUIOnInteractableSelection
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1723,6 +1742,7 @@ GameObject:
   - component: {fileID: 1165025549}
   - component: {fileID: 1165025548}
   - component: {fileID: 1165025550}
+  - component: {fileID: 1165025551}
   m_Layer: 0
   m_HasEditorInfo: 1
   m_Name: EventSystem
@@ -1792,6 +1812,45 @@ MonoBehaviour:
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
   m_ScrollDeltaPerTick: 6
+--- !u!114 &1165025551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1165025546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab68ce6587aab0146b8dabefbd806791, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_ClickSpeed: 0.3
+  m_MoveDeadzone: 0.6
+  m_RepeatDelay: 0.5
+  m_RepeatRate: 0.1
+  m_TrackedDeviceDragThresholdMultiplier: 2
+  m_TrackedScrollDeltaMultiplier: 5
+  m_BypassUIToolkitEvents: 0
+  m_ActiveInputMode: 0
+  m_EnableXRInput: 1
+  m_EnableMouseInput: 1
+  m_EnableTouchInput: 1
+  m_EnableGamepadInput: 1
+  m_EnableJoystickInput: 1
+  m_PointAction: {fileID: 0}
+  m_LeftClickAction: {fileID: 0}
+  m_MiddleClickAction: {fileID: 0}
+  m_RightClickAction: {fileID: 0}
+  m_ScrollWheelAction: {fileID: 0}
+  m_NavigateAction: {fileID: 0}
+  m_SubmitAction: {fileID: 0}
+  m_CancelAction: {fileID: 0}
+  m_EnableBuiltinActionsAsFallback: 1
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
 --- !u!1 &1216473360
 GameObject:
   m_ObjectHideFlags: 0
@@ -2427,6 +2486,7 @@ GameObject:
   - component: {fileID: 1819929103}
   - component: {fileID: 1819929102}
   - component: {fileID: 1819929101}
+  - component: {fileID: 1819929105}
   m_Layer: 5
   m_HasEditorInfo: 1
   m_Name: Canvas
@@ -2520,6 +2580,25 @@ RectTransform:
   m_AnchoredPosition: {x: 550.5, y: 303}
   m_SizeDelta: {x: 1920, y: 1056.7847}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1819929105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819929100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1001 &1843217498
 PrefabInstance:
   m_ObjectHideFlags: 0
