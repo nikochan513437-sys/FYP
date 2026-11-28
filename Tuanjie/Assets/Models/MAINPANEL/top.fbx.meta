@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: C31Mti//ByhXT693LHdjUxo3qrOT6GcEjoGDZlJ0dyT9WEUMX0v9k0E=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    tuanjieGIEnable: 0
+    tuanjieGIGenSDFFactor: 1
+    tuanjieGIGenSDFBias: 0.25
+    tuanjieGIDoubleSidedMode: 0
+    tuanjieGIGenFacetNums: 12
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    totalVerticesCount: 19364
+    totalTrianglesCount: 17260
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  virtualGeometry:
+    virtualGeometry: 0
+    hasBoneWeight: 0
+    useTransparent: 0
+    setVGForeachMesh: 0
+    isFirstUse: 1
+    virtualGeometrySettings:
+      generateGeometryBuffer: 0
+      surfaceCompensation: 0
+      allMeshUse: 1
+      ignoreSimpleMesh: 0
+      transformScaleState: 0
+      isPossibleOverflow: 0
+    virtualGeometryPlatformSettings: []
+    selectedVGMeshes:
+    - index: 0
+      meshName: Cube.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Cube.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Cube.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Cube.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Cube.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Cube.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Cube.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Cube.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Cube.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Cube.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Cube.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Cube.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Cube.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Cube.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Object
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Object.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Object.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Object.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Object.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Object.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Object.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Object.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Object.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Object.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Object.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Object.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Object.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Object.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Object.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Object.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Object.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Object.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Object.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Object.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Object.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Object.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Object.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Object.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Object.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Object.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Object.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Object.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Object.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Object.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Object.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Object.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Object.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Object.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Object.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Object.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Object.036
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Object.037
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Object.038
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Object.039
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Object.040
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Object.041
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Object.042
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Object.043
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Object.044
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Object.045
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Object.046
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Object.047
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Off
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Off.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Off.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Off.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Off.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Off.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Off.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Off.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Off.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Off.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Off.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Off.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Off.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Off.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Off.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Off.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Off.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Off.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Off.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Off.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Off.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Off.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Off.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Off.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Off.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Off.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Off.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Off.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Off.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Off.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: On
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: On.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: On.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: On.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: On.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: On.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: On.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Text.OFF
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 100
+      meshName: Text.OFF.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 101
+      meshName: Text.OFF.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 102
+      meshName: Text.OFF.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 103
+      meshName: Text.OFF.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 104
+      meshName: Text.OFF.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 105
+      meshName: Text.OFF.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 106
+      meshName: Text.OFF.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 107
+      meshName: Text.OFF.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 108
+      meshName: Text.OFF.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 109
+      meshName: Text.OFF.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 110
+      meshName: Text.OFF.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 111
+      meshName: Text.OFF.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 112
+      meshName: Text.OFF.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 113
+      meshName: Text.OFF.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 114
+      meshName: Text.OFF.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 115
+      meshName: Text.OFF.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 116
+      meshName: Text.OFF.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 117
+      meshName: Text.OFF.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 118
+      meshName: Text.OFF.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 119
+      meshName: Text.ON
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 120
+      meshName: Text.ON.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 121
+      meshName: off save
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 122
+      meshName: on.save
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    supportVGMeshes:
+    - index: 0
+      meshName: Cube.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Cube.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Cube.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Cube.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Cube.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Cube.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Cube.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Cube.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Cube.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Cube.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Cube.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Cube.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Cube.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Cube.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Object
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Object.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Object.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Object.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Object.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Object.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Object.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Object.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Object.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Object.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Object.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Object.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Object.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Object.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Object.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Object.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Object.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Object.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Object.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Object.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Object.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Object.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Object.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Object.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Object.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Object.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Object.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Object.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Object.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Object.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Object.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Object.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Object.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Object.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Object.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Object.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Object.036
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Object.037
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Object.038
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Object.039
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Object.040
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Object.041
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Object.042
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Object.043
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Object.044
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Object.045
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Object.046
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Object.047
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Off
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Off.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Off.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Off.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Off.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Off.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Off.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Off.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Off.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Off.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Off.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Off.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Off.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Off.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Off.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Off.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Off.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Off.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Off.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Off.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Off.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Off.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Off.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Off.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Off.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Off.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Off.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Off.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Off.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Off.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: On
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: On.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: On.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: On.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: On.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: On.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: On.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Text.OFF
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 100
+      meshName: Text.OFF.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 101
+      meshName: Text.OFF.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 102
+      meshName: Text.OFF.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 103
+      meshName: Text.OFF.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 104
+      meshName: Text.OFF.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 105
+      meshName: Text.OFF.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 106
+      meshName: Text.OFF.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 107
+      meshName: Text.OFF.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 108
+      meshName: Text.OFF.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 109
+      meshName: Text.OFF.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 110
+      meshName: Text.OFF.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 111
+      meshName: Text.OFF.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 112
+      meshName: Text.OFF.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 113
+      meshName: Text.OFF.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 114
+      meshName: Text.OFF.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 115
+      meshName: Text.OFF.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 116
+      meshName: Text.OFF.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 117
+      meshName: Text.OFF.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 118
+      meshName: Text.OFF.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 119
+      meshName: Text.ON
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 120
+      meshName: Text.ON.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 121
+      meshName: off save
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 122
+      meshName: on.save
+      lodLevel: 0
+      meshGeometryBuffer: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  overrideDefaultPose: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    namedPoseList:
+    - name: Default
+      skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    defaultPoseIndex: -1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
