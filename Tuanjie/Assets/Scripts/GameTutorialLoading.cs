@@ -55,8 +55,6 @@ public class GameTutorialLoading : MonoBehaviour
     }
     public void Stage1()
     {
-        Debug.Log("stage 1");
-        Debug.Log(doOnce);
         if (!doOnce)
         {
             ChangeHintText("Walk over and check the PMC number of the contour");
